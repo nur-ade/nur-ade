@@ -1,16 +1,17 @@
-## Hi there 👋
+# About me
 
-<!--
-**nur-ade/nur-ade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a fraud analyst with a background in using data to solve business problems as a project analyst and project analyst.
+I am a postgraduate student studying artificial intelligence and its impact on social issues like political polarisation.
 
-Here are some ideas to get you started:
+I am learning data science to be able to conduct complex data analysis and modelling as part of my research and eventually become a data scientist.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🔭 I’m currently working on studying the impact of artificial intelligence on political polarization
+- 🌱 I’m currently learning Python language
+- 👯 I’m looking to collaborate on data analysis projects, especially natural language related ones
+- 🤔 I’m looking for help with becoming confident in Python
+- 💬 Ask me about data collection and cleaning
+- 📫 How to reach me: send me an email at virtuospace@gmail.com
+- 😄 Pronouns: He/him
+- ⚡ Fun fact: I enjoy rewatching old shows
+
